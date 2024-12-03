@@ -16,4 +16,14 @@ body {
     padding-left: 40px;
     outline: none;
     font-family: monospace;
+    border-radius: 15px;
+}
+
+a {
+   color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: white;
 }
