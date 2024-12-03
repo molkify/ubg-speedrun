@@ -1,0 +1,19 @@
+body {
+    background-color: #000000;
+    color: white;
+    font-family: monospace;
+    text-align: center;
+    justify-content: center;
+}
+
+.form__input {
+    width: 500px;
+    border: white 5px solid;
+    color: black;
+    padding: 12px;
+    font-size: 5px;
+    text-align: center;
+    padding-left: 40px;
+    outline: none;
+    font-family: monospace;
+}
